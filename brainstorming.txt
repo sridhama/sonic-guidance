@@ -1,0 +1,59 @@
+Derived attributes from data
+	Velocity of
+		Target
+		Objects, based on sensor readout
+	Acceleration
+		same
+
+
+
+Maps of pathing, derive algorithms from that
+Pathing by using those with sight. 
+
+Stairs?
+
+Find the specific failures in this system, redefine algorithms
+Most people aren't trying to collide, so this may be self solving?
+
+How to guarantee safety?
+Should solve itself for major issues such as cars
+How so? 
+GPS may instruct you to follow the road
+sensors stop unnecessary veering in any direction
+
+Are the techniques used for smart cars relevant?
+
+non-blind uses
+	aid in spelunking?
+	idk, this is most likely irrelevant
+
+
+Voice feedback?
+Applet?
+an app on an android device is more reliably connected
+
+point: this is a quality of life device for a small portion of the population
+counter: should these people not be afforded the same quality of life for something they cannot control?
+
+point: battery power? how long could a device like this feasibly last?
+		what if an individual is left stranded in an area because of a loss of power? 
+counter: battery alerts, context based power allocation? motion generating power?
+
+point: how should someone affix this? the main management device?
+uhhh to the side of their pants? 
+possibly a dual sensor on the chest or pants?
+
+ensuring proper application?
+
+wires between points? 
+attach clips? this increases cost
+
+Stress this is only to prove the concept of the system. Final sensor placement is up in the air.
+
+Security is also very important. but that lies outside the scope of this
+
+ofc you need to agree to have your data tracked
+
+depending on the configuration this could also be useful for deaf people for evaluating object outside their fov?
+
+
