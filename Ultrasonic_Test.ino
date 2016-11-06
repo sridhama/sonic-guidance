@@ -15,7 +15,7 @@ NewPing sonar3(TRIGGER_PIN3, ECHO_PIN3, MAX_DISTANCE3); // sets sonar class for 
 
 int range = 100;    // holds the range for the first sensor   
 int range2 = 40;    // holds the range for the first sensor   
-int range3 = 175;   // holds the range for the first sensor   
+int range3 = 80;   // holds the range for the first sensor   
 int btn;            // records current button value
 
 const int pot = A0;   // potentiometer for adjusting values of range
